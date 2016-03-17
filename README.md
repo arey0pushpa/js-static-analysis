@@ -23,3 +23,4 @@ Sorry for the too many pink headings & love symbols  .
  
 so txs to Mari for Love symbol and bluefish editor to help editing these slides.
 # js-static-analysis
+# static-analysis-js
